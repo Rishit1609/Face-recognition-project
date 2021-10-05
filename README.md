@@ -20,3 +20,5 @@ numpy	1.21.2	1.21.2
 opencv-python	4.5.3.56	4.5.3.56
 pip	21.2.4	21.2.4
 setuptools	58.2.0	58.2.0
+
+Add attendance.py in the root of your project that is venv
